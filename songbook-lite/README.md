@@ -8,51 +8,51 @@ It runs entirely on your machine, stores its data locally, and focuses on fast s
 
 The README gallery uses the following screenshot files:
 
-- `docs/screenshots/library-light-cards.png`
-- `docs/screenshots/library-dark-cards.png`
-- `docs/screenshots/song-performance-view.png`
-- `docs/screenshots/focused-performance-view.png`
-- `docs/screenshots/chord-diagram-browser.png`
-- `docs/screenshots/build-setlist-view.png`
-- `docs/screenshots/import-and-paste-view.png`
-- `docs/screenshots/local-assistant-view.png`
-- `docs/screenshots/library-dark-list-view.png`
+- `docs/screenshots/Screenshot from 2026-04-09 09-56-40.png`
+- `docs/screenshots/Screenshot from 2026-04-09 09-56-57.png`
+- `docs/screenshots/Screenshot from 2026-04-09 09-57-23.png`
+- `docs/screenshots/Screenshot from 2026-04-09 09-57-41.png`
+- `docs/screenshots/Screenshot from 2026-04-09 09-57-57.png`
+- `docs/screenshots/Screenshot from 2026-04-09 09-58-14.png`
+- `docs/screenshots/Screenshot from 2026-04-09 09-58-31.png`
+- `docs/screenshots/Screenshot from 2026-04-09 09-58-58.png`
+- `docs/screenshots/Screenshot from 2026-04-09 09-59-31.png`
 
 ### Library (Light Mode)
 
-![Song Library Light Mode](docs/screenshots/library-light-cards.png)
+![Song Library Light Mode](docs/screenshots/Screenshot%20from%202026-04-09%2009-56-40.png)
 
 ### Library (Dark Mode)
 
-![Song Library Dark Mode](docs/screenshots/library-dark-cards.png)
+![Song Library Dark Mode](docs/screenshots/Screenshot%20from%202026-04-09%2009-56-57.png)
 
 ### Song Performance View
 
-![Song Performance View](docs/screenshots/song-performance-view.png)
+![Song Performance View](docs/screenshots/Screenshot%20from%202026-04-09%2009-57-23.png)
 
 ### Focused Performance View
 
-![Focused Performance View](docs/screenshots/focused-performance-view.png)
+![Focused Performance View](docs/screenshots/Screenshot%20from%202026-04-09%2009-57-41.png)
 
 ### Chord Diagram Browser
 
-![Chord Diagram Browser](docs/screenshots/chord-diagram-browser.png)
+![Chord Diagram Browser](docs/screenshots/Screenshot%20from%202026-04-09%2009-57-57.png)
 
 ### Build Setlist
 
-![Build Setlist View](docs/screenshots/build-setlist-view.png)
+![Build Setlist View](docs/screenshots/Screenshot%20from%202026-04-09%2009-58-14.png)
 
 ### Import and Paste
 
-![Import and Paste View](docs/screenshots/import-and-paste-view.png)
+![Import and Paste View](docs/screenshots/Screenshot%20from%202026-04-09%2009-58-31.png)
 
 ### Local Assistant
 
-![Local Assistant View](docs/screenshots/local-assistant-view.png)
+![Local Assistant View](docs/screenshots/Screenshot%20from%202026-04-09%2009-58-58.png)
 
 ### Library List View (Dark Mode)
 
-![Library List View Dark Mode](docs/screenshots/library-dark-list-view.png)
+![Library List View Dark Mode](docs/screenshots/Screenshot%20from%202026-04-09%2009-59-31.png)
 
 ## What SongShelf Does
 
